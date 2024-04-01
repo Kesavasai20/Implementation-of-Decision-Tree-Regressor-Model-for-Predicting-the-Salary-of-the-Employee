@@ -59,7 +59,7 @@ dt.predict([[5,6]])
 ## value of r2
 ![image](https://github.com/Kesavasai20/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/138849303/176808fc-2e4d-40a8-a8ae-d56b0c5744de)
 ## data.prediction()
-![image](https://github.com/Kesavasai20/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/138849303/9dd23b87-79ff-4b89-8b00-f72a5d933522)
+![image](https://github.com/Kesavasai20/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/138849303/035d1bfa-805d-417e-9227-713d4bf62406)
 
 ## Result:
 Thus the program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee is written and verified using python programming.
