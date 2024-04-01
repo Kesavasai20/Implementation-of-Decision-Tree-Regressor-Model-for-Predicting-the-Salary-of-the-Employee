@@ -8,18 +8,16 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. Import the libraries and read the data frame using pandas.
+2. Calculate the null values present in the dataset and apply label encoder.
+3. Determine test and training data set and apply decison tree regression in dataset.
+4. calculate Mean square error,data prediction and r2.
 
 ## Program:
-```
-
+```py
 Program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
 Developed by: K KESAVA SAI
 RegisterNumber: 212223230105
-
 ```
 ```PY
 import pandas as pd
@@ -52,15 +50,15 @@ dt.predict([[5,6]])
 ![image](https://github.com/Kesavasai20/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/138849303/c0df42cc-1840-43af-9326-c5f653b70873)
 ## data.info():
 ![image](https://github.com/Kesavasai20/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/138849303/43f82072-f0fd-4ca5-8e71-be256bb5dad5)
-## data.isnull(
+## isnull and sum()
 ![image](https://github.com/Kesavasai20/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/138849303/d484497c-7201-4c8e-981b-983c34779eb7)
-## 
+## position head()
 ![image](https://github.com/Kesavasai20/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/138849303/3a73b376-2677-4531-840c-a0029c4cfae2)
-##
+## Value of MSE
 ![image](https://github.com/Kesavasai20/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/138849303/2429dcda-d459-4048-b08a-27da60c2c847)
-##
+## value of r2
 ![image](https://github.com/Kesavasai20/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/138849303/176808fc-2e4d-40a8-a8ae-d56b0c5744de)
-##
+## data.prediction()
 ![image](https://github.com/Kesavasai20/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/138849303/9dd23b87-79ff-4b89-8b00-f72a5d933522)
 
 ## Result:
